@@ -4,3 +4,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
 #Este es un nuevo cambio del repostorio local. Desde Github
+#Este es un nuevo cambio del repostorio local. Para ver el pull.rebase
